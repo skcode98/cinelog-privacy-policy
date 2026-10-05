@@ -1,6 +1,6 @@
 # CineLog Privacy Policy
 
-Effective date: 2026-10-03
+Effective date: 2026-10-05
 
 CineLog is a personal movie diary app. This policy explains what data the app
 handles. Your library stays on your device; search queries are sent to the
